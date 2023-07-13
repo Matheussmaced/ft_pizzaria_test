@@ -20,7 +20,7 @@ Buildando o app
         npm build
 
 
-# Home Page
+# Pagina inicial
 
 ![image](https://github.com/farciomernandes/celmar_pizzaria/assets/57499538/af1942ed-c8de-425d-8e19-f71dca35f09c)
 
@@ -29,7 +29,7 @@ Buildando o app
 ![](assets/menu.png)
 ![image](https://github.com/farciomernandes/celmar_pizzaria/assets/57499538/631bff7a-b540-4b51-b9cf-bf74ec31f680)
 
-# Tecnologias Used
+# Tecnologias Usadas
 
 1. [ReactJs](https://reactjs.org/)
 2. [Styled-Components](https://styled-components.com/)
