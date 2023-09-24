@@ -20,9 +20,9 @@ export const Container = styled.div`
     span {
       position: absolute;
       top: -0.5rem;
-      left: 0.5rem;
+      left: -0.5rem;
 
-      background: ${({ theme }) => theme.colors.red };
+      background: ${({ theme }) => theme.colors.red};
       width: 2rem;
       height: 2rem;
       border-radius: 50%;
