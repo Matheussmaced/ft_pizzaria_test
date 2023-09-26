@@ -9,7 +9,6 @@ import { AppRoutes } from './routes'
 import { Normalize } from 'styled-normalize'
 import { GlobalStyle } from './styles/global'
 import { Theme } from './styles/Theme'
-import React from 'react'
 
 export default function App() {
   return (
