@@ -21,8 +21,8 @@ export default function OrderSuccessPage() {
         <SubTitle>Dados de Contato da Loja</SubTitle>
 
         <ul>
-          <li>Endereço: Av Central, 123</li>
-          <li>Tel: 11 98412-4578</li>
+          <li>Endereço: R Paulo José de Macêdo, Aurora velha, 17</li>
+          <li>Tel: 83 98161-3615</li>
         </ul>
 
         <br />
