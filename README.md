@@ -21,11 +21,15 @@ Buildando o app
 
 
 # Pagina inicial
+![image](https://github.com/farciomernandes/celmar_pizzaria_frontend/assets/57499538/5f15c83f-b21d-4084-b06f-6155c5ec2c3d)
 
-![image](https://github.com/farciomernandes/celmar_pizzaria/assets/57499538/af1942ed-c8de-425d-8e19-f71dca35f09c)
 
-![](assets/menu.png)
-![image](https://github.com/farciomernandes/celmar_pizzaria/assets/57499538/631bff7a-b540-4b51-b9cf-bf74ec31f680)
+![image](https://github.com/farciomernandes/celmar_pizzaria_frontend/assets/57499538/7046af76-8410-45e9-a782-005a3b34d0ad)
+
+![image](https://github.com/farciomernandes/celmar_pizzaria_frontend/assets/57499538/07e2f2ef-a3b5-4a94-98ff-053f69a3ace0)
+
+![image](https://github.com/farciomernandes/celmar_pizzaria_frontend/assets/57499538/c0d49987-18d5-428e-8384-40acdeb3c7ec)
+
 
 # Tecnologias Usadas
 
