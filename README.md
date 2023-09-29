@@ -1,10 +1,10 @@
-# Celmar Pizzaria: Website Ecommerce
+# Celmar Pizzaria: Website Ecommerce Celmar Pizzaria
 
 
 Celmar Pizzaria é um Ecommerce de fast-food semelhante ao mcdonalds ou burger king, que vende pizzas, hambúrgueres, bebidas e sobremesas. 
 Este site permite que você escolha itens em um menu para um carrinho. 
 
-link do projeto: em desenvolvimento....
+link do projeto: [Celmar Pizzaria....](https://celmar-pizzaria-frontend-er7wczzw1-farciomernandes.vercel.app/)
 
 # Getting Started
 
