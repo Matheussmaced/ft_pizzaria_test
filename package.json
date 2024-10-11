@@ -14,6 +14,7 @@
     "@types/react-dom": "^18.0.6",
     "axios": "^0.27.2",
     "card-validator": "^8.1.1",
+    "ft_pizzaria": "file:",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -63,7 +64,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "json-server": "^0.17.3",
+    "json-server": "^0.17.4",
     "prettier": "^2.8.8"
   }
 }

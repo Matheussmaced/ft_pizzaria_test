@@ -5,7 +5,7 @@ interface ContainerProps {
 }
 
 export const Container = styled.aside<ContainerProps>`
-  background-color: ${({ theme }) => theme.colors.red};
+  background-color: ${({ theme }) => theme.colors.secondary};
 
   ${({ isMenuOpen }) =>
     isMenuOpen
@@ -56,7 +56,7 @@ export const Container = styled.aside<ContainerProps>`
         gap: 2rem;
 
         svg {
-          fill: ${({ theme }) => theme.colors.white};
+          fill: ${({ theme }) => theme.colors.black};
           width: 4rem;
           height: 4rem;
           transition: fill 0.3s;
@@ -77,7 +77,7 @@ export const Container = styled.aside<ContainerProps>`
             bottom: 0;
             transform: translateY(-50%);
 
-            background-color: ${({ theme }) => theme.colors.yellow};
+            background-color: ${({ theme }) => theme.colors.green};
             width: 5px;
             height: calc(100% + 10px);
 
@@ -85,11 +85,11 @@ export const Container = styled.aside<ContainerProps>`
           }
 
           svg {
-            fill: ${({ theme }) => theme.colors.yellow};
+            fill: ${({ theme }) => theme.colors.red};
           }
 
           span {
-            color: ${({ theme }) => theme.colors.yellow};
+            color: ${({ theme }) => theme.colors.green};
           }
         }
       }
